@@ -1,0 +1,19 @@
+{
+  "name": "oldaproject",
+  "authors": [
+    "Michal Němec <nemec.michal@icloud.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
